@@ -1,0 +1,39 @@
+body{
+    background-image:linear-gradient(to bottom,white,rgb(179, 178, 178));
+}
+div{
+    text-align:center;
+    font-family:tahoma;
+    border-bottom: 1px solid gray;
+    padding-bottom:40px;
+}
+h1{
+    font-family:tahoma;
+    padding-bottom: 15px;
+    border-bottom: 3px solid gray;
+}
+img{
+    width:190px;
+}
+h2{
+    font-style: italic;
+    font-size:24px;
+}
+p{
+    text-align: center;
+    line-height:28px;
+    width:930px;
+    margin:20px auto;
+}
+a{
+    background-color:green;
+    border-radius: 20px;
+    padding:7px 20px;
+    text-decoration:none;
+    color:#ffffff;
+    font-weight: bold;
+    font-size:14px;
+}
+span{
+    font-weight: bold;
+}
